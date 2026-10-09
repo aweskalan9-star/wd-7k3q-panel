@@ -1,4 +1,4 @@
-:HL["/wd-7k3q-panel/_next/static/chunks/1-9hc2bvo--ve.css","style"]
+:HL["/wd-7k3q-panel/_next/static/chunks/3bhd6_qlc42a-.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"todos","h":96,"c":"$Q2"}]]
-0:{"b":"jj9OWUSQxL74DA5nyh7Qv","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"7H4kNd4OS6zdjVyPY1llo","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
