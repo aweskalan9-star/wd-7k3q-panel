@@ -1,4 +1,4 @@
-:HL["/wd-7k3q-panel/_next/static/chunks/1aehj1ea80tdn.css","style"]
+:HL["/wd-7k3q-panel/_next/static/chunks/2js5pw8j8h65n.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"materials","h":96,"c":"$Q2"}]]
-0:{"b":"MvzX5ptigSMCG7JsBG_Up","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"0A8VEVG1ryQQxOB8IZmjQ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
