@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,49905,e=>{"use strict";var t=e.i(26281),o=e.i(42934),s=e.i(2532);e.s(["default",0,function(){let e=(0,s.useRouter)();return(0,o.useEffect)(()=>{e.replace("/todos")},[e]),(0,t.jsx)("p",{className:"text-sm text-muted-foreground",children:"已合并到待办，正在跳转…"})}])}]);
